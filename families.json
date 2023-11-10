@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Nature",
+        "description": "Natural spirits and monsters belong to the Nature family. These monsters are tied to the forces of nature in ways more deep than normal animals like those in the Beast family. ",
+        "subfamilies": []
+    },
+    {
+        "name": "Beast",
+        "description": "This is a family of monsters that are more animalistic than most. Beast monsters are notable for their ferocity and primal instincts.",
+        "subfamilies": []
+    },
+    {
+        "name": "Aquatic",
+        "description": "The Aquatic family is full of monsters from the ocean. These monsters are all mostly things you could see at a coral reef, and some are deep sea creatures. The deep, deep ocean monsters are under a different family.",
+        "subfamilies": []
+    },
+    {
+        "name": "Humanoid",
+        "description": "These are your base humanoid races in typical fantasy games.",
+        "subfamilies": []
+    },
+    {
+        "name": "Construct",
+        "description": "Artificial monsters created by enchanting objects. Typically strong and without any affinity for elements.",
+        "subfamilies": []
+    },
+    {
+        "name": "Reptilians",
+        "description": "Intelligent-ish lizards, seperate from dragons",
+        "subfamilies": []
+    },
+    {
+        "name": "Abberations",
+        "description": "\"Weirds\" and other monsters that don't derive from real life analogues",
+        "subfamilies": []
+    },
+    {
+        "name": "Undead",
+        "description": "Creatures that are puppeteered and sustained using the forces of unlife",
+        "subfamilies": []
+    },
+    {
+        "name": "Radiant",
+        "description": "Creatures that embody the forces of light / holy whatever",
+        "subfamilies": []
+    },
+    {
+        "name": "Earthen",
+        "description": "Monsters that derive from the elemental force of earth",
+        "subfamilies": []
+    },
+    {
+        "name": "Infernal",
+        "description": "Monsters that are derive from the elemental force of fire",
+        "subfamilies": []
+    },
+    {
+        "name": "Abyssal",
+        "description": "Monsters that derive from the elemental forces of water",
+        "subfamilies": []
+    },
+    {
+        "name": "Tempestuous",
+        "description": "Monsters that derive from the elemental forces of air",
+        "subfamilies": []
+    }
+]

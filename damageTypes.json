@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Fire",
+        "description": "Damage caused by intense heat or flame"
+    },
+    {
+        "name": "Cold",
+        "description": "Damage done by intense cold "
+    },
+    {
+        "name": "Force",
+        "description": "Damage done by bludgeoning weapons or great changes in momentum"
+    }
+]
